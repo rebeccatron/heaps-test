@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations" : [
+        {
+            "type" : "hl",
+            "request" : "launch",
+            "preLaunchTask" : "Build",
+            "name" : "Launch Safari against localhost"
+        }
+    ]
+}
